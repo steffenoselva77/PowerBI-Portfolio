@@ -1,5 +1,7 @@
 # HR Analytics Dashboard
 
+<img src="HR Analytics Dashboard.png" width="1000">
+
 ## Overview
 This Power BI dashboard provides comprehensive workforce analytics by examining employee attrition, demographics, compensation patterns, and job-role performance. The dashboard helps identify factors influencing employee turnover and supports data-driven HR decision-making.
 
