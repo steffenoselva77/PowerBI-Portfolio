@@ -68,19 +68,6 @@ Welcome to my Power BI portfolio showcasing interactive dashboards developed usi
 
 ---
 
-## Repository Structure
-
-```text
-PowerBI-Portfolio
-│
-├── E-Commerce-Dashboard
-├── HR-Analytics-Dashboard
-├── Sales-Dashboard
-└── README.md
-```
-
----
-
 ## About Me
 
 Aspiring Data Analyst passionate about transforming data into actionable insights through analytics, visualization, and business intelligence solutions.
