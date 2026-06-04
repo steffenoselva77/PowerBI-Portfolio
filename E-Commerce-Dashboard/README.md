@@ -1,5 +1,7 @@
 # E-Commerce Sales Dashboard
 
+![E-Commerce Dashboard](E-Commerce Dashboard.png)
+
 ## Overview
 This Power BI dashboard provides insights into e-commerce sales performance, profitability, customer behavior, and payment preferences. It enables users to analyze sales trends and identify key business opportunities.
 
